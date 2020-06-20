@@ -1,0 +1,237 @@
+.navBar{
+    text-align: right;
+    text-decoration: none;
+    background-color: white;
+    text-transform: uppercase;
+    list-style-type: none;
+    display: fixed;
+}
+
+.siteIcons{
+    text-align: left;
+    text-decoration: none;
+}
+
+.webLinks{
+    text-decoration: none;
+    display: inline-flex;
+    margin-bottom: 2em;
+    margin-left: 50px;
+}
+
+.homeNav{
+    text-decoration: none;
+    display: inline-flex;
+
+}
+
+.beliefsNav{
+    text-decoration: none;
+}
+
+.portfolioNav{
+    text-decoration: none;
+}
+
+.contactNav{
+    text-decoration: none;
+}
+
+.linkedSite {
+    height: 50px;
+    width: 100px;
+    margin-bottom: -75px;
+}
+
+.gitSite{
+    height: 75px;
+    width: 100px;
+    margin-bottom: -50px;
+}
+
+.name{
+    font-size: 84px;
+}
+
+.title{
+    font-size: 24px;
+}
+.homeJustin{
+    background: url("../Portfolio/assets/Background1.jpg");
+    color: white;
+    text-align: right;
+    padding: 50px 50px 50px 50px;
+    font-size: 42px;
+}
+
+.proPic{
+    margin-right: auto;
+    width: 20%;
+    display: block;
+    margin-top: -300px;
+    padding-left: 100px;
+    height: auto;
+}
+
+.jumbo{
+    margin-right: 200px;
+    margin-top: 100px;
+}
+
+.aboutMe{
+    font-size: 26px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.justBeliefs{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 25px;
+}
+
+.beliefContainer{
+    display: inline-flex;
+}
+
+.beliefs{
+    color: black;
+    background-color: white;
+    display: inline-block;
+}
+
+.teamwork{
+    border: 3px solid lightblue;
+    margin-bottom: 10px;
+    width: 25%;
+    text-align: center;
+}
+
+.teamworkPic{
+    height: 200px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.respect{
+    border: 3px solid lightblue;
+    margin-bottom: 10px;
+    width: 25%;
+    text-align: center;
+}
+
+.respectPic{
+    height: 200px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.commitment{
+    border: 3px solid lightblue;
+    margin-bottom: 10px;
+    width: 25%;
+    text-align: center;
+}
+
+.commitmentPic{
+    height: 200px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.learning{
+    border: 3px solid lightblue;
+    margin-bottom: 10px;
+    width: 25%;
+    text-align: center;
+}
+
+.learningPic{
+    height: 200px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portfolio{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.portfolioContainer{
+    display: inline-flex;
+    margin-top: 50px;
+}
+
+.creature{
+    text-align: center;
+    border: 2px solid lightblue;
+    width: 31em;
+    height: 20em;
+}
+
+.staticLay{
+    text-align: center;
+    border: 2px solid lightblue;
+    width: 31em;
+}
+
+.project{
+    text-align: center;
+    border: 2px solid lightblue;
+    width: 32em;
+}
+
+.contactImage{
+    height: 50px;
+    width: 50px;
+    margin-top: 100px;
+}
+
+.contactForm{
+    margin-left: 25em;
+    
+}
+
+.contact{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.nameEmailPhone{
+    position: absolute;
+    margin-top: 4em;
+}
+
+.fullName{
+    margin-bottom: 2em;
+}
+
+.phone{
+    margin-top: 2em;
+}
+
+.message{
+    width: 15vw;
+    flex-direction: row;
+    margin-left: 25em;
+    margin-bottom: -100em;
+}
+
+textarea{
+    min-width: 30em;
+    min-height: 15em;
+}
+
+.submit{
+    float: right;
+    margin-top: 240px;
+    margin-right: 150px;
+}
