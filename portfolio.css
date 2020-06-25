@@ -223,6 +223,12 @@ body{
     width: 32em;
 }
 
+.projectImage{
+    height: 175px;
+    width: 325px;
+    margin-top: 75px;
+}
+
 .contactImage{
     height: 50px;
     width: 50px;
